@@ -6,3 +6,5 @@ const numero = 12
 console.log(numero)
 const numero2 = String(12)
 console.log(numero2)
+const producto3 = Number(producto2)
+console.log(producto3)
